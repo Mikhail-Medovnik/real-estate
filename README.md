@@ -2,7 +2,6 @@
 
 🏠 A modern real estate search interface built with **React**, **TypeScript**, and **Tailwind CSS**. Features property filtering, map integration, and responsive design.
 
-[🔗 Live Demo](https://your-demo-link.vercel.app) | [📂 Backend repo]()
 
 ## Tech Stack
 - React 18, TypeScript
